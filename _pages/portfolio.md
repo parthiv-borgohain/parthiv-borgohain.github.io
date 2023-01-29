@@ -66,3 +66,13 @@ This project involved using linear programming to allocate a $10 million marketi
 
 [Code](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization_Project_I_Final.ipynb)
 | [Report](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization%20Project%201%20Report.pdf)
+
+---
+
+**NASA Near Earth Objects Analysis**
+
+In this project, we used NASA's Near Earth Objects dataset to predict whether a certified asteroid would be hazardous to Earth by analyzing variables such as diameter, relative velocity, and more. Through exploratory analysis and machine learning techniques, we found that the absolute magnitude variable had the strongest relationship with the target variable. Our best performing model was Gradient Boosting with a test accuracy of 92.02%. The key takeaways from our analysis were that only 4 variables were used to predict the target variable, with the remaining variables being dropped before fitting the models. Our predictive model probably will not show significant improvement over the baseline model as the 4 variables did not prove to be strong predictors. As a next step, we plan to work with a larger dataset with a more balanced distribution of the target variable to potentially improve the model.
+
+[Code](https://github.com/parthiv-borgohain/NASA-Near-Earth-Objects-Analysis)
+| [Report](https://github.com/parthiv-borgohain/NASA-Near-Earth-Objects-Analysis/blob/main/Project%20Report.pdf)
+| [Presentation](https://github.com/parthiv-borgohain/NASA-Near-Earth-Objects-Analysis/blob/main/Python%20Project.pdf)
