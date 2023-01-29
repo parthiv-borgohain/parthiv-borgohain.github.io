@@ -8,40 +8,38 @@ redirect_from:
 ---
 <br>
 
-**Perturbation & Gradient-Based Techniques for Explainable AI**
+**Surveillance Alert System based on Image Captioning using Deep Learning Approaches**
 
-With increasing complexity in data and success of black-box deep learning models in terms of predictive power, it becomes increasingly difficult but important to be able to make sense of model predictions. We evaluate explain-ability in tensorflow models and compare stability of perturbation-based feature attribution methods such as LIME, SHAP and Counterfactual Explanations versus gradient-based methods like DeepLift, Integrated Gradients, SmoothGrad, etc.
+In the field of image analytics, semantic segmentation can determine the objects in an image, but fails to explain the relationship between these objects. Automatic caption generation can help to identify these events and be used to alert users to take action. Our team tackled this challenge by implementing an Image Captioning system using CNN-LSTM architecture and compared results with GPT2-generated captions. The training dataset was from Kaggle and contained 8092 images from Flickr with 5 captions as the target label. To address the lack of surveillance-related images, we manually added 568 surveillance images and captions. The resulting Image Captioning model generated captions that were used to send alerts to stakeholders if the captions contained red-flag words.
 
-[Code](https://github.com/abhinav-sharma-6167/Advanced-ML-and-XAI/tree/main/Project)
-| [Medium](https://medium.com/@abhinav_utexas/explainable-ai-e3cf209af5fc)
-| [Papers](https://github.com/abhinav-sharma-6167/Advanced-ML-and-XAI/tree/main/Research%20Papers/Explainable%20AI)
-
----
-
-**Brand Engagement Analysis - NLP and Image analytics**
-
-Crawled images and captions from Instagram posts of Nike and Adidas to study the social media engagement strategy of both companies.
-Key attributes are engineering by obtaining labels, presence of people, sentiment from images (GCP Vision API) ; prominent phrases using named entity recognition, key topics using Latent Dirichlet allocation on the captions. The number of likes and comments were regressed against all these attributes to understand the distinguishing factors of highly engaging posts.
-
-[Code](https://github.com/vicgpt/Unstructured-Data-Analytics/tree/main/Project)
-| [Report](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Project/Brand-Analytics.pdf)
+[Code](https://github.com/parthiv-borgohain/Surveillance-Alert-System-based-on-Image-Captioning-using-Deep-Learning-Approaches)
+| [Medium Article](https://medium.com/@rgarg_98817/surveillance-alert-system-a394f28480c6)
 
 ---
 
-**Causal Inference in distilling Halo effects from Brand perceptions**
+**Crowdsourced Beer Recommendation System**
 
-Explored survey data for 2012 United States presidential election wherein latent variables such as probable predilection towards specific candidate as well as halo effect (tendency for positive impression to spill over into opinions in other areas) posed as key modeling challenges. Structural Equation Models were formulated to statistically prove the impact and directionality of latent driver variables onto brand (candidate) preferences while also quantifying their ‘spillover effect’ into other independent driver variables.
+This project aimed to create a crowdsourced recommendation system for beers using data from Beeradvocate.com, a forum where users share reviews and ratings of different beers. The system took in user preferences for beer attributes and generated three recommendations based on the information. The approach involved scraping data from the website, identifying desired attributes, performing similarity analysis, sentiment analysis, and creating a composite metric to recommend beers. The tools used included Selenium, spaCy, Vader, and NLTK. The results showed that blindly recommending high-rated beers does not meet the needs of a customer looking for personalized recommendations.
 
-[Code](https://github.com/abhinav-sharma-6167/Causal-Inference-for-Brand-Assessment/blob/main/halo%20effect.ipynb)
-| [Report](https://github.com/abhinav-sharma-6167/Causal-Inference-for-Brand-Assessment/blob/main/Marketing%20Project%20slides%20v1.pdf)
+[Code & Report](https://github.com/parthiv-borgohain/Crowdsourced-Beer-Recommender-System)
 
 ---
 
-**Customer Reviews based Recommender Engine**
+**Trump and other Presidents: Speech Analysis**
 
-User feedback often helps discover knowledge about the product from the perspective of the consumers. Based on customer reviews of different kinds of beer, a specific beer brand is selected for each user as per the three 'attributes' they care most about. The rec engine formulates the closest match by incorporating both the sentiment score (VADER) as well as cosine similarity scores (from tf-idf vectorizers and spacy embeddings)
+For a group project in the Unstructured Data Analytics course at UT Austin's MS Business Analytics program, we analyzed the difference in former President Trump's speeches compared to other presidents using the Presidential Speech Archive as our dataset. We used NLP techniques such as SpaCy similarity analysis, Lift Analysis, polarity and subjectivity analysis, and topic modelling with LDA to draw insights on the uniqueness of Trump's language and messaging compared to other presidents. Our findings revealed that modern speeches tend to be more alike, but Trump's speeches were found to have a lot of information on specific, opinionated topics and to focus on nationalist, COVID-19, immigration, and terrorism, while other presidents focused on topics such as war, taxes and economy, crime, and space.
 
-[Code](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Assignment%202%20-%20Beer%20review/beer_review.ipynb)
+[Code](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis)
+| [Report](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis/blob/main/Presentation%20Slides.pdff)
+
+---
+
+**Trump and other Presidents: Speech Analysis**
+
+For a group project in the Unstructured Data Analytics course at UT Austin's MS Business Analytics program, we analyzed the difference in former President Trump's speeches compared to other presidents using the Presidential Speech Archive as our dataset. We used NLP techniques such as SpaCy similarity analysis, Lift Analysis, polarity and subjectivity analysis, and topic modelling with LDA to draw insights on the uniqueness of Trump's language and messaging compared to other presidents. Our findings revealed that modern speeches tend to be more alike, but Trump's speeches were found to have a lot of information on specific, opinionated topics and to focus on nationalist, COVID-19, immigration, and terrorism, while other presidents focused on topics such as war, taxes and economy, crime, and space.
+
+[Code](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis)
+| [Report](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis/blob/main/Presentation%20Slides.pdff)
 
 ---
 
