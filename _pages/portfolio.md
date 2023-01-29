@@ -60,12 +60,12 @@ This project aimed to understand the demand for bike sharing services in the Was
 
 ---
 
-**Marketing Budget Allocation**
+**Feature Selection Optimization**
 
-This project involved using linear programming to allocate a $10 million marketing budget to 10 different channels, including Print, TV, SEO, AdWords, Facebook, LinkedIn, Instagram, Snapchat, Twitter, and Email. We had to ensure that no channel exceeded a budget of $3 million and that investments in Print and TV were not more than Facebook and Email. The total investment in social media platforms had to be twice the investment in SEO and AdWords. Our team used ROI calculations from two consulting firms and solved the linear program using Gurobi to come up with an optimal budget allocation strategy.
+This project aimed to compare the effectiveness of two methods for variable selection in Machine Learning algorithms. The first approach was Mixed Integer Quadratic Programming (MIQP) which is a direct variable selection method based on optimization of the Ordinary Least Squares linear regression. The second approach was Lasso Regression, an indirect method that performs regularization and feature selection implicitly. The results showed that MIQP provided more accurate results but took longer to run, while Lasso was quicker but with less accuracy. The choice between the two methods depends on the resources available and the size of the dataset. If the task requires maximum accuracy and the company has enough data points, MIQP is recommended. If the dataset is large, Lasso would be a better option. Both methods have a place in analysis, and the choice between them should be made based on individual circumstances.
 
-[Code](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization_Project_I_Final.ipynb)
-| [Report](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization%20Project%201%20Report.pdf)
+[Code](https://github.com/parthiv-borgohain/Feature-Selection-Optimization/blob/main/Project-3.ipynb)
+| [Report](https://github.com/parthiv-borgohain/Feature-Selection-Optimization/blob/main/Project%203%20-%20Report.pdf)
 
 ---
 
@@ -76,3 +76,14 @@ In this project, we used NASA's Near Earth Objects dataset to predict whether a 
 [Code](https://github.com/parthiv-borgohain/NASA-Near-Earth-Objects-Analysis)
 | [Report](https://github.com/parthiv-borgohain/NASA-Near-Earth-Objects-Analysis/blob/main/Project%20Report.pdf)
 | [Presentation](https://github.com/parthiv-borgohain/NASA-Near-Earth-Objects-Analysis/blob/main/Python%20Project.pdf)
+
+---
+
+**Marketing Budget Allocation**
+
+This project involved using linear programming to allocate a $10 million marketing budget to 10 different channels, including Print, TV, SEO, AdWords, Facebook, LinkedIn, Instagram, Snapchat, Twitter, and Email. We had to ensure that no channel exceeded a budget of $3 million and that investments in Print and TV were not more than Facebook and Email. The total investment in social media platforms had to be twice the investment in SEO and AdWords. Our team used ROI calculations from two consulting firms and solved the linear program using Gurobi to come up with an optimal budget allocation strategy.
+
+[Code](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization_Project_I_Final.ipynb)
+| [Report](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization%20Project%201%20Report.pdf)
+
+
