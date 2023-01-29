@@ -40,9 +40,7 @@ I am now seeking full-time opportunities in this field.
   * Led analytical reporting activities for an entire region in East India, serving a Sales & Marketing Vertical in the Alcoholic Beverages Industry
 
 <br>
-
 ---
-
 # [Projects](https://parthiv-borgohain.github.io/markdown/) 
 
 Please click on the Headline to be redirected to my Portfolio Page. You can even [click here](https://parthiv-borgohain.github.io/markdown/)
