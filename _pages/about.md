@@ -20,9 +20,6 @@ I am now seeking full-time opportunities in this field.
 
 ---
 
-
-
-
 # Work experience
 
 **[Microsoft](https://www.microsoft.com/)** : _Graduate Capstone Project - Data Science (Jan'23-Present)_
