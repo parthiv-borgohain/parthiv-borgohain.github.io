@@ -51,9 +51,8 @@ In this project, we analyzed user-generated content from the Edmunds car review 
 
 ---
 
-**M5 Forecasting - Kaggle**
+**Capital Bikeshare Traffic Planning**
 
-In this competition, the fifth iteration of the Makridakis Competitions, we will use hierarchical sales data from Walmart, to forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. In addition, it has explanatory variables such as price, promotions, day of the week, and special events. Varied boosting models leveraged as benchmarks and deep learning architectures such as RNNs/LSTMs were explored in order to study the lift in accuracy of forecasts.
+This project aimed to understand the demand for bike sharing services in the Washington, D.C region and how it is affected by the number of registered and casual users. Using trip data from Capital Bikeshare, we predicted the hourly ridership by employing various regression and tree-based models. Our analysis showed that XGBoost, a tree-based ensemble method, performed the best with an R-Square of 88.7%. Our findings revealed that the Hour of the Day was the most significant factor affecting both registered and casual riders, with temperature also having an impact on casual riders. Our recommendations for Capital Bikeshare include offering a weekend pass option and implementing dynamic pricing based on weather conditions to increase usage and optimize pricing. Our model provides valuable insights for planning and optimization.
 
-[Code](https://github.com/abhinav-sharma-6167/Kaggle-M5-Forecasting)
-| [Kaggle Problem Statement](https://www.kaggle.com/c/m5-forecasting-accuracy)
+[Code & Report](https://github.com/parthiv-borgohain/Capital-Bikeshare-Traffic-Planning)
