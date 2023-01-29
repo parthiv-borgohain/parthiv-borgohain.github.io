@@ -43,3 +43,5 @@ I am now seeking full-time opportunities in this field.
 
 ---
 
+# [Industry Projects](https://parthiv-borgohain.github.io/markdown/)
+
