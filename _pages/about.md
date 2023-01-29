@@ -43,5 +43,7 @@ I am now seeking full-time opportunities in this field.
 
 ---
 
-# [Industry Projects](https://parthiv-borgohain.github.io/markdown/)
+# [Projects](https://parthiv-borgohain.github.io/markdown/) 
+
+Please click on the Headline to be redirected to my Portfolio Page. You can even [click here](https://parthiv-borgohain.github.io/markdown/)
 
