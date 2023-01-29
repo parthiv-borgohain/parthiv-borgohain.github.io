@@ -34,20 +34,20 @@ For a group project in the Unstructured Data Analytics course at UT Austin's MS 
 
 ---
 
-**Trump and other Presidents: Speech Analysis**
+**Index Fund Using Integer Programming**
 
-For a group project in the Unstructured Data Analytics course at UT Austin's MS Business Analytics program, we analyzed the difference in former President Trump's speeches compared to other presidents using the Presidential Speech Archive as our dataset. We used NLP techniques such as SpaCy similarity analysis, Lift Analysis, polarity and subjectivity analysis, and topic modelling with LDA to draw insights on the uniqueness of Trump's language and messaging compared to other presidents. Our findings revealed that modern speeches tend to be more alike, but Trump's speeches were found to have a lot of information on specific, opinionated topics and to focus on nationalist, COVID-19, immigration, and terrorism, while other presidents focused on topics such as war, taxes and economy, crime, and space.
+In this project, we designed an Index fund to track the NASDAQ-100 index using an integer program and a linear program to pick stocks and allocate weights respectively. The performance of the index fund was evaluated for different values of m and compared to the NASDAQ-100 index. The goal was to find a practical and cost-effective way to create an index fund that mirrors the broad market.
 
-[Code](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis)
-| [Report](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis/blob/main/Presentation%20Slides.pdff)
+[Code](https://github.com/parthiv-borgohain/Index-Fund-Using-Integer-Programming/blob/main/Optimization%20Project%202%20-%20Parthiv%20Borgohain%20-%20Final.ipynb)
+| [Report](https://github.com/parthiv-borgohain/Index-Fund-Using-Integer-Programming/blob/main/Optimization%201%20Project%202%20Report.pdf)
 
 ---
 
-**Luxury car market analysis from forum discussions**
+**Car Brands Consumer Perception Analysis**
 
-In conjunction with cluster analysis, text mining of user generated content can to help brands identify competitors as perceived by the customers. Upon scraping the comments and posts from a car discussion forum we analyzed which car makers are perceived to be similar using MDS. 
+In this project, we analyzed user-generated content from the Edmunds car review forum to understand consumer perceptions of car brands. We used natural language processing techniques and visualized the results with a Multidimensional Scaling plot. Our analysis revealed the top 10 car brands, the attributes associated with those brands, and the most desired brand from the discussions. The insights from this project can inform marketing strategies for car brands.
 
-[Code](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Assignment%201%20-%20Car%20Brands/Car-Brand-Text-Analytics.ipynb)
+[Code & Report](https://github.com/parthiv-borgohain/Car-Brands-Consumer-Perception-Analysis)
 
 ---
 
