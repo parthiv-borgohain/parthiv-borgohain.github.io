@@ -57,3 +57,12 @@ This project aimed to understand the demand for bike sharing services in the Was
 
 [Code](https://github.com/parthiv-borgohain/Capital-Bikeshare-Traffic-Planning)
 | [Report](https://github.com/parthiv-borgohain/Capital-Bikeshare-Traffic-Planning/blob/main/Capital_Bikeshare_ML_updated.pdf)
+
+---
+
+**Marketing Budget Allocation**
+
+This project involved using linear programming to allocate a $10 million marketing budget to 10 different channels, including Print, TV, SEO, AdWords, Facebook, LinkedIn, Instagram, Snapchat, Twitter, and Email. We had to ensure that no channel exceeded a budget of $3 million and that investments in Print and TV were not more than Facebook and Email. The total investment in social media platforms had to be twice the investment in SEO and AdWords. Our team used ROI calculations from two consulting firms and solved the linear program using Gurobi to come up with an optimal budget allocation strategy.
+
+[Code]([https://github.com/parthiv-borgohain/Capital-Bikeshare-Traffic-Planning](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization_Project_I_Final.ipynb))
+| [Report](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization%20Project%201%20Report.pdf)
