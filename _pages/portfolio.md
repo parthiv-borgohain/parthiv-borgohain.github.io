@@ -55,4 +55,5 @@ In this project, we analyzed user-generated content from the Edmunds car review 
 
 This project aimed to understand the demand for bike sharing services in the Washington, D.C region and how it is affected by the number of registered and casual users. Using trip data from Capital Bikeshare, we predicted the hourly ridership by employing various regression and tree-based models. Our analysis showed that XGBoost, a tree-based ensemble method, performed the best with an R-Square of 88.7%. Our findings revealed that the Hour of the Day was the most significant factor affecting both registered and casual riders, with temperature also having an impact on casual riders. Our recommendations for Capital Bikeshare include offering a weekend pass option and implementing dynamic pricing based on weather conditions to increase usage and optimize pricing. Our model provides valuable insights for planning and optimization.
 
-[Code & Report](https://github.com/parthiv-borgohain/Capital-Bikeshare-Traffic-Planning)
+[Code](https://github.com/parthiv-borgohain/Capital-Bikeshare-Traffic-Planning)
+| [Report](https://github.com/parthiv-borgohain/Capital-Bikeshare-Traffic-Planning/blob/main/Capital_Bikeshare_ML_updated.pdf)
