@@ -14,6 +14,8 @@ Hi there! I'm an Analytics and Data Science Professional with close to 4 years o
 
 In addition to my work experience, I've also had the chance to work in the Product Analytics space in the online gambling industry. Here, I was able to use my analytical skills to help product managers make better decisions by providing them with day-to-day tactical insights and answering their analytical questions related to core products, engagement tools, customer support and customer journeys. I hold a Bachelor of Technology degree in Computer Science Engineering from Vellore Institute of Technology, and am currently pursuing an MS in Business Analytics from UT Austin - McCombs School of Business. In my final semester, I am learning about cutting-edge techniques like Deep Learning, Optimization-II, Demand/Pricing Analytics, and Social Media Analytics, and working on a capstone project with Microsoft. With a wide range of technical skills, including proficiency in Python, SQL, SAS, and PowerBI, among others, I'm confident that I can bring value to any Data Science and Analytics project.
 
+I am currently seeking full-time roles in Data Science and Analytics.
+
 <br>
 
 ---
