@@ -30,7 +30,7 @@ This project aimed to create a crowdsourced recommendation system for beers usin
 For a group project in the Unstructured Data Analytics course at UT Austin's MS Business Analytics program, we analyzed the difference in former President Trump's speeches compared to other presidents using the Presidential Speech Archive as our dataset. We used NLP techniques such as SpaCy similarity analysis, Lift Analysis, polarity and subjectivity analysis, and topic modelling with LDA to draw insights on the uniqueness of Trump's language and messaging compared to other presidents. Our findings revealed that modern speeches tend to be more alike, but Trump's speeches were found to have a lot of information on specific, opinionated topics and to focus on nationalist, COVID-19, immigration, and terrorism, while other presidents focused on topics such as war, taxes and economy, crime, and space.
 
 [Code](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis)
-| [Report](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis/blob/main/Presentation%20Slides.pdff)
+| [Report](https://github.com/parthiv-borgohain/Trump-and-other-Presidents-Speech-Analysis/blob/main/Presentation%20Slides.pdf)
 
 ---
 
