@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br>Hi there, I'm Parthiv. <br><br>
+<br>Hi there, I'm Parthiv. <br>
 
 I am a seasoned Analytics and Data Science professional with 4 years of experience in the industry. My expertise spans across Machine Learning, Statistical Modelling, Reporting, Data Visualization and Data Wrangling. I’ve delivered impactful results for clients in various domains, including the Government sector, Sales & Marketing, and Supply Chain & Logistics. Additionally, I have experience in Product Analytics in the online gambling industry, where I provided actionable insights to CX Product managers on core products, engagement tools, customer support, and customer journeys.
 
