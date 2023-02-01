@@ -20,7 +20,7 @@ I am now seeking full-time opportunities in this field.
 
 ---
 
-# Work experience
+# Experience
 
 **[Microsoft](https://www.microsoft.com/)** : _Graduate Capstone Project - Data Science (Jan'23-Present)_
   * Graduate Capstone as a part of UT Austin's MS Business Analytics Program Curriculum
