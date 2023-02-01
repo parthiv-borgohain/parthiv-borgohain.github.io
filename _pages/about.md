@@ -28,7 +28,7 @@ I am now seeking full-time opportunities in this field.
   * Identifying signatures for self-help content use using data reduction methods, and using them in content design and as engineered features in ML applications
   * Building predictive ML models using article metadata, customer behaviors and characteristics to extend article success metrics to all customers for a more complete assessment of customer experience
 
-**[Entain](https://www.entaingroup.com/)** : _Data Science Associate (Oct'21-Jun'22)_
+**[Entain](https://www.entaingroup.com/)** : _Commercial Analyst (Oct'21-Jun'22)_
   * Assisted CX Product Managers with daily analytical questions and insights on core products, engagement tools, customer support, and customer journeys
   * Created commercial insights and reports to support long and short-term customer strategies.
   * Provided actionable insights to support data-driven decision making by CX Product stakeholders
