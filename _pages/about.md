@@ -48,6 +48,7 @@ I am now seeking full-time opportunities in this field.
   
 **[Vellore Insitute of Technology](https://www.vit.ac.in/)** : _B.Tech - Computer Science and Engineering (Jul'14-May'18)_
   * Relevant Coursework - Applied Statistics and Probability, Linear Algebra, Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Graph Theory, Discrete Mathematics, Artificial Intelligence, Soft Computing, Data Mining & Data Warehousing, Web Programming
+---
 
 # [Projects](https://parthiv-borgohain.github.io/markdown/) 
 
