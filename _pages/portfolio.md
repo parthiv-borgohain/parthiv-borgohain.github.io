@@ -60,6 +60,17 @@ This project aimed to understand the demand for bike sharing services in the Was
 
 ---
 
+**Building an Image Classification Webpage with TensorFlow and Anvil**
+
+In this project, a convolutional neural network was created to classify images on the MNIST dataset. The objective was to achieve over 99% accuracy on the dataset. The network was built using TensorFlow and various network structures were tried to optimize accuracy. To evaluate the network, a validation set approach was used and the best network structure was trained on the entire training set. The accuracy was evaluated on the MNIST test set. The results were then plotted on an interactive webpage built using Anvil, which allowed users to upload their own images and receive a classification from the model. The webpage provides a detailed description of the process, network structure, and the results.
+
+[Code](https://github.com/parthiv-borgohain/Building-an-Image-Classification-Webpage-with-TensorFlow-and-Anvil)
+| [Webpage](https://msbaoptim43.anvil.app) 
+
+**Note**: Username is: Dan, Password is: Optimization1234. Please do note that the CNN Model is deployed on AWS Lightsail. The digit classification feature may not work if the Lightsail Instance is offline
+
+---
+
 **Feature Selection Optimization**
 
 This project aimed to compare the effectiveness of two methods for variable selection in Machine Learning algorithms. The first approach was Mixed Integer Quadratic Programming (MIQP) which is a direct variable selection method based on optimization of the Ordinary Least Squares linear regression. The second approach was Lasso Regression, an indirect method that performs regularization and feature selection implicitly. The results showed that MIQP provided more accurate results but took longer to run, while Lasso was quicker but with less accuracy. The choice between the two methods depends on the resources available and the size of the dataset. If the task requires maximum accuracy and the company has enough data points, MIQP is recommended. If the dataset is large, Lasso would be a better option. Both methods have a place in analysis, and the choice between them should be made based on individual circumstances.
@@ -86,15 +97,6 @@ This project involved using linear programming to allocate a 10 million USD mark
 [Code](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization_Project_I_Final.ipynb)
 | [Report](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization%20Project%201%20Report.pdf)
 
-**Building an Image Classification Webpage with TensorFlow and Anvil**
 
-In this project, a convolutional neural network was created to classify images on the MNIST dataset. The objective was to achieve over 99% accuracy on the dataset. The network was built using TensorFlow and various network structures were tried to optimize accuracy. To evaluate the network, a validation set approach was used and the best network structure was trained on the entire training set. The accuracy was evaluated on the MNIST test set. The results were then plotted on an interactive webpage built using Anvil, which allowed users to upload their own images and receive a classification from the model. The webpage provides a detailed description of the process, network structure, and the results.
-
-[Code](https://github.com/parthiv-borgohain/Building-an-Image-Classification-Webpage-with-TensorFlow-and-Anvil)
-| [Webpage](https://msbaoptim43.anvil.app) 
-
-**Note**: Username is: Dan, Password is: Optimization1234. Please do note that the CNN Model is deployed on AWS Lightsail. The digit classification feature may not work if the Lightsail Instance is offline
-
----
 
 
