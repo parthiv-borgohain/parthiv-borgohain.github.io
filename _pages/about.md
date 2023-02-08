@@ -38,21 +38,9 @@ I am now seeking full-time opportunities in this field.
   * Boosted revenue by 11% for the Department of Mines and Geology of an Indian State through the development of a forecasting system
   * Reduced pilferage by 20% and increased revenue for 3 districts in an Electric Power Company by identifying high-loss areas and implementing actions
   * Led analytical reporting activities for an entire region in East India, serving a Sales & Marketing Vertical in the Alcoholic Beverages Industry
+
+<br>
 ---
-
-# Education
-
-**[The University of Texas at Austin - McCombs School of Business](https://www.mccombs.utexas.edu/)** : _MS Business Analytics (Jul'22-Present)_
-  * Relevant Coursework: Advanced Machine Learning, Data Science Programming, Optimization, Marketing Analytics, Text Analytics, Deep Learning, Demand/Pricing Analytics, Social Media Analytics, Unsupervised Learning, Data Science Capstone with Microsoft
-  * Selected for Merit-based Academic Scholarship
-  
-**[Vellore Insitute of Technology](https://www.vit.ac.in/)** : _B.Tech - Computer Science and Engineering (Jul'14-May'18)_
-  * Relevant Coursework - Applied Statistics and Probability, Linear Algebra, Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Graph Theory, Discrete Mathematics, Artificial Intelligence, Soft Computing, Data Mining & Data Warehousing, Web Programming
----
-
 # [Projects](https://parthiv-borgohain.github.io/markdown/) 
 
 Please click on the Headline to be redirected to my Portfolio Page. You can also [click here](https://parthiv-borgohain.github.io/markdown/)
-
-
-
