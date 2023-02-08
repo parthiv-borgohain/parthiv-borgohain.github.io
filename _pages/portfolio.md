@@ -86,4 +86,12 @@ This project involved using linear programming to allocate a 10 million USD mark
 [Code](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization_Project_I_Final.ipynb)
 | [Report](https://github.com/parthiv-borgohain/Marketing-Budget-Allocation/blob/main/Optimization%20Project%201%20Report.pdf)
 
+**Building an Image Classification Webpage with TensorFlow and Anvil**
+
+In this project, a neural network was created to classify images on the MNIST dataset. The objective was to achieve over 99% accuracy on the dataset. The network was built using TensorFlow and various network structures were tried to optimize accuracy. To evaluate the network, a validation set approach was used and the best network structure was trained on the entire training set. The accuracy was evaluated on the MNIST test set. The results were then plotted on an interactive webpage built using Anvil, which allowed users to upload their own images and receive a classification from the model. The webpage provides a detailed description of the process, network structure, and the results.
+
+[Webpage](https://msbaoptim43.anvil.app) (Username is: Dan, Password is: Optimization1234, **Note**: Please do note that the CNN Model is deployed on AWS Lightsail. The digit classification feature may not work if the Lightsail Instance is offline) 
+
+---
+
 
