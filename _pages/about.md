@@ -45,3 +45,12 @@ I am now seeking full-time opportunities in this field.
 
 Please click on the Headline to be redirected to my Portfolio Page. You can also [click here](https://parthiv-borgohain.github.io/markdown/)
 
+# Education
+
+**[The University of Texas at Austin - McCombs School of Business](https://www.mccombs.utexas.edu/)** : _MS Business Analytics (Jul'22-Present)_
+  * Relevant Coursework: Advanced Machine Learning, Data Science Programming, Optimization, Marketing Analytics, Text Analytics, Deep Learning, Demand/Pricing Analytics, Social Media Analytics, Unsupervised Learning, Data Science Capstone with Microsoft
+  * Selected for Merit-based Academic Scholarship
+  
+**[Vellore Insitute of Technology](https://www.vit.ac.in/)** : _B.Tech - Computer Science and Engineering (Jul'14-May'18)_
+  * Relevant Coursework - Applied Statistics and Probability, Linear Algebra, Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Graph Theory, Discrete Mathematics, Artificial Intelligence, Soft Computing, Data Mining & Data Warehousing, Web Programming
+
