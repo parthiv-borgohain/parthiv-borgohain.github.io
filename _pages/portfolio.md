@@ -90,6 +90,14 @@ In this project, we used NASA's Near Earth Objects dataset to predict whether a 
 
 ---
 
+**Ukraine-Russia on Twitter: Network Analysis of Influencers and Bots**
+
+This project analyzed the Russia-Ukraine conflict on Twitter using social media analytics. We collected 13k tweets with 9 relevant hashtags and identified bot accounts using a trained random forest classification model. 18.1% of tweets and 17.2% of users in the network were classified as bots. Topic modeling revealed a variety of related hashtags. Analysis of Network Centrality metrics revealed self-sustaining network dynamics, meaning that targeting influencer accounts alone is unlikely to impact the overall network. The study concludes with recommendations to improve bot detection software and enhance the search engine using topic modeling. The project used Tweepy for data collection, LDA for topic modeling, and NetworkX for network analytics.
+
+[Code & Report](https://github.com/parthiv-borgohain/Ukraine-Russia-on-Twitter-Network-Analysis-of-Influencers-and-Bots-)
+
+---
+
 **Marketing Budget Allocation**
 
 This project involved using linear programming to allocate a 10 million USD marketing budget to 10 different channels, including Print, TV, SEO, AdWords, Facebook, LinkedIn, Instagram, Snapchat, Twitter, and Email. We had to ensure that no channel exceeded a budget of 3 million USD and that investments in Print and TV were not more than Facebook and Email. The total investment in social media platforms had to be twice the investment in SEO and AdWords. Our team used ROI calculations from two consulting firms and solved the linear program using Gurobi to come up with an optimal budget allocation strategy.
