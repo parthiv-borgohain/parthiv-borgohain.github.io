@@ -98,6 +98,16 @@ This project analyzed the Russia-Ukraine conflict on Twitter using social media 
 
 ---
 
+**Newsvendor Problem - Stochastic Programming**
+
+We developed and conducted an analysis of the newsvendor model, using sample average approximation to solve stochastic programming problems and improve demand and profit approximations. The study includes three extensions to the standard newsvendor model: exploring the impact of rush orders, analyzing the linear relationship between price and demand, and testing the sensitivity of optimal price and quantity to demand data. The objective of the study was to provide a better business plan for larger profits based on simulated randomness and average expectations
+
+[Code](https://github.com/parthiv-borgohain/Newsvendor-Model---Stochastic-Programming/blob/main/Optimization%20II%20Project-I%20Analysis%20Code.ipynb)
+| [Report](https://github.com/parthiv-borgohain/Newsvendor-Model---Stochastic-Programming/blob/main/Optimization%20II%20Project-I%20Report.pdf)
+
+
+---
+
 **Marketing Budget Allocation**
 
 This project involved using linear programming to allocate a 10 million USD marketing budget to 10 different channels, including Print, TV, SEO, AdWords, Facebook, LinkedIn, Instagram, Snapchat, Twitter, and Email. We had to ensure that no channel exceeded a budget of 3 million USD and that investments in Print and TV were not more than Facebook and Email. The total investment in social media platforms had to be twice the investment in SEO and AdWords. Our team used ROI calculations from two consulting firms and solved the linear program using Gurobi to come up with an optimal budget allocation strategy.
