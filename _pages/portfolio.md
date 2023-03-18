@@ -105,6 +105,29 @@ We developed and conducted an analysis of the newsvendor model, using sample ave
 [Code](https://github.com/parthiv-borgohain/Newsvendor-Model---Stochastic-Programming/blob/main/Optimization%20II%20Project-I%20Analysis%20Code.ipynb)
 | [Report](https://github.com/parthiv-borgohain/Newsvendor-Model---Stochastic-Programming/blob/main/Optimization%20II%20Project-I%20Report.pdf)
 
+---
+
+**Marketing Analytics - Forecasting Apple Sales Revenue**
+
+This project involved using various forecasting methods to predict future sales for a company. The first method used was the Bass Diffusion Model, which measures the rate at which early adopters influence potential customers to adopt a new technology. The second method used was a 2-period moving average, which was then followed by the Holt-Winters Model, which captures the dynamic level, trend, and seasonality of the data. By analyzing and comparing the results from these methods, we were able to gain insight into the trends and patterns of the data, and make informed predictions about future sales. Overall, this project showcases the application of statistical modeling and forecasting techniques to real-world business data.
+
+[Report](https://github.com/parthiv-borgohain/MIS-382N-Marketing-Analysis-I/tree/main/HW3)
+
+---
+
+**Marketing Analytics - Market Response Modeling**
+
+This project focused on analyzing the effect of promotional advertising on demand/sales of GoodBelly probiotic juice products, produced by Next Foods Inc. The aim was to understand the impact of in-store product demonstrations on sales and profitability in two regions, Rocky Mountain and Northeast. Using sales response modeling, the analysis found that price and demonstrations had a significant effect on sales in both regions, with demonstrations having a larger positive impact in the Rocky Mountain region. The findings were used to estimate expected profits for GoodBelly, and also highlighted the importance of dynamic demo effects in the weeks following a promotion.
+
+[Report](https://github.com/parthiv-borgohain/MIS-382N-Marketing-Analysis-I/tree/main/HW4)
+
+---
+
+**Marketing Analytics - Choice-Based Conjoint Analysis**
+
+In this project, I conducted a choice-based conjoint analysis to understand consumer behavior and preferences towards food products labeled as "genetically modified". Through a binary logit model, I estimated the impact of different attributes on consumer preferences, computed the derived importance of each attribute, and estimated the dollar value of different products. The project also predicted product shares and elasticities in a hypothetical market scenario. The results provided insights into consumer behavior and highlighted the limitations of assuming consumer homogeneity and perfect substitution between products.
+
+[Report](https://github.com/parthiv-borgohain/MIS-382N-Marketing-Analysis-I/tree/main/HW1)
 
 ---
 
