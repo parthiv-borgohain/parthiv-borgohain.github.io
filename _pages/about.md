@@ -22,7 +22,7 @@ I'm currently seeking full-time opportunities in this field.
 
 # Experience
 
-**[Microsoft](https://www.microsoft.com/)** : _Data Science Consultant (Graduate Capstone) (Jan'23-Present)_
+**[Microsoft](https://www.microsoft.com/)** : _Data Science Consultant (Graduate Capstone) (Jan'23-Apr'23)_
   * Graduate Capstone as a part of UT Austin's MS Business Analytics Program Curriculum
   * Applied data engineering techniques to analyze a pool of 65 articles and identify 10 key articles for in-depth analysis, enabling the prediction of customer survey behavior and addressing survey response bias
   * Developed and tested multiple machine learning models using binary classification techniques to assess article helpfulness, with logistic regression achieving a 62% accuracy rate (vs 59% baseline) and significant features including country, scenario, and browser
