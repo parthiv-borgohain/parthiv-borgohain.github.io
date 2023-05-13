@@ -12,9 +12,9 @@ redirect_from:
 
 I am a seasoned Analytics and Data Science professional with 4 years of experience in the industry. My expertise spans across Machine Learning, Statistical Modelling, Reporting, Data Visualization and Data Wrangling. I’ve delivered impactful results for clients in various domains, including the Government sector, Sales & Marketing, and Supply Chain & Logistics. Additionally, I have experience in Product Analytics in the online gambling industry, where I provided actionable insights to CX Product managers on core products, engagement tools, customer support, and customer journeys.
 
-I hold a B.Tech in Computer Science Engineering and am currently pursuing MS in Business Analytics from UT Austin - McCombs School of Business. My final semester includes cutting-edge courses like Deep Learning, Demand/Pricing Analytics, and Social Media Analytics and a capstone project with Microsoft. With skills in Python, SQL, SAS, PowerBI and more, I’m eager to take on challenging Data Science and Analytics projects. 
+I hold a B.Tech in Computer Science Engineering and have recently completed my MS in Business Analytics from UT Austin - McCombs School of Business. My final semester focused on cutting-edge courses like Deep Learning, Demand/Pricing Analytics, and Social Media Analytics, along with a capstone project in collaboration with Microsoft. With skills in Python, SQL, SAS, Power BI, and more, I'm excited to tackle challenging Data Science and Analytics projects.
 
-I am now seeking full-time opportunities in this field.
+I'm currently seeking full-time opportunities in this field.
 
 <br>
 
