@@ -22,11 +22,12 @@ I'm currently seeking full-time opportunities in this field.
 
 # Experience
 
-**[Microsoft](https://www.microsoft.com/)** : _Graduate Capstone Project - Data Science (Jan'23-Present)_
+**[Microsoft](https://www.microsoft.com/)** : _Data Science Consultant (Graduate Capstone) (Jan'23-Present)_
   * Graduate Capstone as a part of UT Austin's MS Business Analytics Program Curriculum
-  * Currently working on a project to analyze survey response bias by using survey and anonymous customer data to assess and correct survey data across the KM portfolio and for selected individual self-help articles 
-  * Identifying signatures for self-help content use using data reduction methods, and using them in content design and as engineered features in ML applications
-  * Building predictive ML models using article metadata, customer behaviors and characteristics to extend article success metrics to all customers for a more complete assessment of customer experience
+  * Applied data engineering techniques to analyze a pool of 65 articles and identify 10 key articles for in-depth analysis, enabling the prediction of customer survey behavior and addressing survey response bias
+  * Developed and tested multiple machine learning models using binary classification techniques to assess article helpfulness, with logistic regression achieving a 62% accuracy rate (vs 59% baseline) and significant features including country, scenario, and browser
+  * Identified the potential estimation error range of -21% to +27% in article success rates due to survey response bias, emphasizing the importance of correcting bias to ensure accurate insights and decision-making
+  * Recommended the implementation of survey weighting to enhance representativeness of customer survey results and improve accuracy, while emphasizing the significance of feature engineering and inclusion of additional user behavior metrics to further enhance machine learning model predictions
 
 **[Entain](https://www.entaingroup.com/)** : _Commercial Analyst (Oct'21-Jun'22)_
   * Assisted CX Product Managers with daily analytical questions and insights on core products, engagement tools, customer support, and customer journeys
