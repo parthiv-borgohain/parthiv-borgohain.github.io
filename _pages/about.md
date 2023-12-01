@@ -10,7 +10,7 @@ redirect_from:
 
 <br>Hi there, I'm Parthiv. <br>
 
-I am a seasoned Analytics and Data Science professional with 4 years of experience in the industry. My expertise spans across Machine Learning, Statistical Modelling, Reporting, Data Visualization and Data Wrangling. I’ve delivered impactful results for clients in various domains, including the Government sector, Sales & Marketing, and Supply Chain & Logistics. Additionally, I have experience in Product Analytics in the online gambling industry, where I provided actionable insights to CX Product managers on core products, engagement tools, customer support, and customer journeys.
+I'm a data science professional with a passion for transforming complex data into actionable insights. With over 4.5 years of experience, I specialize in Machine Learning, Statistical Modelling, Data Engineering, Reporting, Data Visualization, and Data Wrangling. My journey has led me through various industries, from government and sales to marketing and healthcare. At Entain, I leveraged Product Analytics to drive customer engagement strategies in the online gambling sector, providing CX Product managers with crucial insights.
 
 I am an alumnus of the University of Texas at Austin, where I completed my MS in Business Analytics. My curriculum included advanced courses like Machine Learning, Deep Learning, Demand/Pricing Analytics, and Social Media Analytics, topped with a practical Capstone Project in collaboration with Microsoft. Equipped with skills in Python, SQL, SAS, Power BI, AWS, and GCP, I'm eager to delve into challenging Data Science and Analytics projects.
 
