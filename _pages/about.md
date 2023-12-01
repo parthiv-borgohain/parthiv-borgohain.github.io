@@ -12,9 +12,7 @@ redirect_from:
 
 I am a seasoned Analytics and Data Science professional with 4 years of experience in the industry. My expertise spans across Machine Learning, Statistical Modelling, Reporting, Data Visualization and Data Wrangling. I’ve delivered impactful results for clients in various domains, including the Government sector, Sales & Marketing, and Supply Chain & Logistics. Additionally, I have experience in Product Analytics in the online gambling industry, where I provided actionable insights to CX Product managers on core products, engagement tools, customer support, and customer journeys.
 
-I hold a B.Tech in Computer Science Engineering and have recently completed my MS in Business Analytics from UT Austin - McCombs School of Business. My final semester focused on cutting-edge courses like Deep Learning, Demand/Pricing Analytics, and Social Media Analytics, along with a capstone project in collaboration with Microsoft. With skills in Python, SQL, SAS, Power BI, and more, I'm excited to tackle challenging Data Science and Analytics projects.
-
-I'm currently seeking full-time opportunities in this field.
+I am an alumnus of the University of Texas at Austin, where I completed my MS in Business Analytics. My curriculum included advanced courses like Machine Learning, Deep Learning, Demand/Pricing Analytics, and Social Media Analytics, topped with a practical Capstone Project in collaboration with Microsoft. Equipped with skills in Python, SQL, SAS, Power BI, AWS, and GCP, I'm eager to delve into challenging Data Science and Analytics projects.
 
 <br>
 
@@ -22,17 +20,21 @@ I'm currently seeking full-time opportunities in this field.
 
 # Experience
 
+**[TriNet](https://www.trinet.com/)** : _Data Scientist (Contract) (Jun'23-Nov'23)_
+  * Implemented Python, SQL, and ML methodologies to enhance customer service operations, significantly improving First Contact Resolution rates.
+  * Applied NLP techniques to analyze case documentation, streamlining case resolution processes and enhancing customer experience.
+
 **[Microsoft](https://www.microsoft.com/)** : _Data Science Consultant (Graduate Capstone) (Jan'23-Apr'23)_
   * Graduate Capstone as a part of UT Austin's MS Business Analytics Program Curriculum
   * Applied data engineering techniques to analyze a pool of 65 articles and identify 10 key articles for in-depth analysis, enabling the prediction of customer survey behavior and addressing survey response bias
-  * Developed and tested multiple machine learning models using binary classification techniques to assess article helpfulness, with logistic regression achieving a 62% accuracy rate (vs 59% baseline) and significant features including country, scenario, and browser
+  * Developed and tested multiple machine learning models using binary classification techniques to assess article helpfulness
   * Identified the potential estimation error range of -21% to +27% in article success rates due to survey response bias, emphasizing the importance of correcting bias to ensure accurate insights and decision-making
   * Recommended the implementation of survey weighting to enhance representativeness of customer survey results and improve accuracy, while emphasizing the significance of feature engineering and inclusion of additional user behavior metrics to further enhance machine learning model predictions
 
 **[Entain](https://www.entaingroup.com/)** : _Commercial Analyst (Oct'21-Jun'22)_
   * Assisted CX Product Managers with daily analytical questions and insights on core products, engagement tools, customer support, and customer journeys
-  * Created commercial insights and reports to support long and short-term customer strategies.
-  * Provided actionable insights to support data-driven decision making by CX Product stakeholders
+  * Conducted A/B tests to optimize product features, leading to increased customer engagement
+  * Utilized SQL, Python and Power BI for customer journey analysis, influencing marketing and product strategies
 
 **[PwC](https://www.pwc.in/)** : _Technology Consultant, Data & Analytics (Jul'18-Oct'21)_
   * Implemented and maintained CM Dashboard Portal, a cross-functional analytics platform for the Chief Minister's Office of an Indian State
